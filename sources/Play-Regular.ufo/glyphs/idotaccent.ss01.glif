@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotaccent.ss01" format="2">
+  <advance width="246"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="168" y="484" type="line"/>
+      <point x="78" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="565" type="line"/>
+      <point x="168" y="565" type="line"/>
+      <point x="168" y="660" type="line"/>
+      <point x="78" y="660" type="line"/>
+    </contour>
+  </outline>
+</glyph>

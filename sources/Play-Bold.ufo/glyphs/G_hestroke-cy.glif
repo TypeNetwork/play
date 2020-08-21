@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="268" type="line"/>
+      <point x="445" y="268" type="line"/>
+      <point x="445" y="379" type="line"/>
+      <point x="263" y="379" type="line"/>
+      <point x="263" y="538" type="line"/>
+      <point x="540" y="538" type="line"/>
+      <point x="540" y="649" type="line"/>
+      <point x="107" y="649" type="line"/>
+      <point x="107" y="379" type="line"/>
+      <point x="20" y="379" type="line"/>
+      <point x="20" y="268" type="line"/>
+      <point x="107" y="268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

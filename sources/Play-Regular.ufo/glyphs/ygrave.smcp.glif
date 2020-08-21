@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ygrave.smcp" format="2">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="206" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="185" type="line"/>
+      <point x="496" y="484" type="line"/>
+      <point x="395" y="484" type="line"/>
+      <point x="252" y="254" type="line"/>
+      <point x="109" y="484" type="line"/>
+      <point x="8" y="484" type="line"/>
+      <point x="206" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="553" type="line"/>
+      <point x="342" y="553" type="line"/>
+      <point x="252" y="680" type="line"/>
+      <point x="143" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

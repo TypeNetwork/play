@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="648"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="320" y="519" type="line"/>
+      <point x="324" y="519" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="422" y="649" type="line"/>
+      <point x="232" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=A</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

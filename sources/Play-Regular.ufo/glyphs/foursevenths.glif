@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursevenths" format="2">
+  <advance width="956"/>
+  <outline>
+    <contour>
+      <point x="232" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="725" y="649" type="line"/>
+      <point x="644" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="273" type="line"/>
+      <point x="306" y="273" type="line"/>
+      <point x="306" y="358" type="line"/>
+      <point x="354" y="358" type="line"/>
+      <point x="354" y="409" type="line"/>
+      <point x="306" y="409" type="line"/>
+      <point x="306" y="649" type="line"/>
+      <point x="223" y="649" type="line"/>
+      <point x="14" y="408" type="line"/>
+      <point x="14" y="358" type="line"/>
+      <point x="234" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="409" type="line"/>
+      <point x="233" y="578" type="line"/>
+      <point x="234" y="409" type="line"/>
+    </contour>
+    <contour>
+      <point x="654" y="0" type="line"/>
+      <point x="737" y="0" type="line"/>
+      <point x="884" y="322" type="line"/>
+      <point x="884" y="376" type="line"/>
+      <point x="583" y="376" type="line"/>
+      <point x="583" y="319" type="line"/>
+      <point x="806" y="319" type="line"/>
+    </contour>
+  </outline>
+</glyph>

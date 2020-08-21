@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash.smcp" format="2">
+  <advance width="431"/>
+  <outline>
+    <contour>
+      <point x="10" y="-10" type="line"/>
+      <point x="97" y="-10" type="line"/>
+      <point x="421" y="494" type="line"/>
+      <point x="334" y="494" type="line"/>
+    </contour>
+  </outline>
+</glyph>

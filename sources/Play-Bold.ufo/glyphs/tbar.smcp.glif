@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.smcp" format="2">
+  <advance width="545"/>
+  <outline>
+    <contour>
+      <point x="199" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="180" type="line"/>
+      <point x="434" y="180" type="line"/>
+      <point x="434" y="273" type="line"/>
+      <point x="345" y="273" type="line"/>
+      <point x="345" y="394" type="line"/>
+      <point x="514" y="394" type="line"/>
+      <point x="514" y="484" type="line"/>
+      <point x="29" y="484" type="line"/>
+      <point x="29" y="394" type="line"/>
+      <point x="199" y="394" type="line"/>
+      <point x="199" y="273" type="line"/>
+      <point x="109" y="273" type="line"/>
+      <point x="109" y="180" type="line"/>
+      <point x="199" y="180" type="line"/>
+    </contour>
+  </outline>
+</glyph>

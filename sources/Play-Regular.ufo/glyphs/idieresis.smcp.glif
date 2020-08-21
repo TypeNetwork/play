@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis.smcp" format="2">
+  <advance width="258"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1" y="565" type="line"/>
+      <point x="89" y="565" type="line"/>
+      <point x="89" y="659" type="line"/>
+      <point x="-1" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="565" type="line"/>
+      <point x="259" y="565" type="line"/>
+      <point x="259" y="659" type="line"/>
+      <point x="169" y="659" type="line"/>
+    </contour>
+  </outline>
+</glyph>

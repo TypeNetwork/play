@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender-cy.case" format="2">
+  <advance width="217"/>
+  <anchor x="0" y="0" name="_mark1"/>
+  <outline>
+    <contour>
+      <point x="83" y="-136" type="line"/>
+      <point x="167" y="-136" type="line"/>
+      <point x="167" y="68" type="line"/>
+      <point x="0" y="68" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

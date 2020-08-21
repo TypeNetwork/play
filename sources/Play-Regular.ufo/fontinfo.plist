@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>937</integer>
+    <key>capHeight</key>
+    <integer>649</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2011, Jonas Hecksher, Playtypes, e-types AS (lasse@e-types.com), with Reserved Font Name 'Play', 'Playtype', 'Playtype Sans'.</string>
+    <key>descender</key>
+    <integer>-220</integer>
+    <key>familyName</key>
+    <string>Play</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2017/03/01 09:58:32</string>
+    <key>openTypeHheaAscender</key>
+    <integer>937</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-220</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Jonas Hecksher (Cyrillic expansion: Cyreal)</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.e-types.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Jonas Hecksher, Playtype, e-types AS</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.playtype.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>937</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-220</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PLAY</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1052</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>224</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-11</integer>
+      <integer>0</integer>
+      <integer>484</integer>
+      <integer>495</integer>
+      <integer>649</integer>
+      <integer>660</integer>
+      <integer>937</integer>
+      <integer>953</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-236</integer>
+      <integer>-220</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>101</integer>
+    <key>xHeight</key>
+    <integer>484</integer>
+  </dict>
+</plist>

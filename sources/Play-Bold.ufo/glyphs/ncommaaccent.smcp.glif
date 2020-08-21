@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncommaaccent.smcp" format="2">
+  <advance width="675"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="330" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="484" type="line"/>
+      <point x="470" y="484" type="line"/>
+      <point x="470" y="163" type="line"/>
+      <point x="237" y="484" type="line"/>
+      <point x="70" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="-208" type="line"/>
+      <point x="344" y="-208" type="line"/>
+      <point x="427" y="-46" type="line"/>
+      <point x="294" y="-46" type="line"/>
+    </contour>
+  </outline>
+</glyph>

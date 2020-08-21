@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha-cy" format="2">
+  <advance width="944"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="845" y="649" type="line"/>
+      <point x="748" y="649" type="line"/>
+      <point x="748" y="68" type="line"/>
+      <point x="513" y="68" type="line"/>
+      <point x="513" y="649" type="line"/>
+      <point x="416" y="649" type="line"/>
+      <point x="416" y="68" type="line"/>
+      <point x="181" y="68" type="line"/>
+      <point x="181" y="649" type="line"/>
+      <point x="84" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="831" y="-166" type="line"/>
+      <point x="915" y="-166" type="line"/>
+      <point x="915" y="68" type="line"/>
+      <point x="831" y="68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

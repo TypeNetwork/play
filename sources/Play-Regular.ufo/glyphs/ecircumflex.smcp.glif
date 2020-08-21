@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflex.smcp" format="2">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="66" type="line"/>
+      <point x="174" y="66" type="line"/>
+      <point x="174" y="220" type="line"/>
+      <point x="447" y="220" type="line"/>
+      <point x="447" y="286" type="line"/>
+      <point x="174" y="286" type="line"/>
+      <point x="174" y="418" type="line"/>
+      <point x="480" y="418" type="line"/>
+      <point x="480" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="553" type="line"/>
+      <point x="208" y="553" type="line"/>
+      <point x="271" y="640" type="line"/>
+      <point x="333" y="553" type="line"/>
+      <point x="391" y="553" type="line"/>
+      <point x="325" y="680" type="line"/>
+      <point x="218" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

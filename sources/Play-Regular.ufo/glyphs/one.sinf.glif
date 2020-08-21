@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sinf" format="2">
+  <advance width="378"/>
+  <outline>
+    <contour>
+      <point x="186" y="-147" type="line"/>
+      <point x="257" y="-147" type="line"/>
+      <point x="257" y="229" type="line"/>
+      <point x="195" y="229" type="line"/>
+      <point x="75" y="148" type="line"/>
+      <point x="75" y="80" type="line"/>
+      <point x="186" y="151" type="line"/>
+    </contour>
+  </outline>
+</glyph>

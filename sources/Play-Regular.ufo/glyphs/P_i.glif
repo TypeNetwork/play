@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="687"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="581" type="line"/>
+      <point x="506" y="581" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="603" y="649" type="line"/>
+      <point x="84" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

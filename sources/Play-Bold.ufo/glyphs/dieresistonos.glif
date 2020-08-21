@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="664"/>
+  <unicode hex="0385"/>
+  <anchor x="316" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="257" y="553" type="line"/>
+      <point x="351" y="553" type="line"/>
+      <point x="430" y="710" type="line"/>
+      <point x="271" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="565" type="line"/>
+      <point x="226" y="565" type="line"/>
+      <point x="226" y="683" type="line"/>
+      <point x="100" y="683" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="565" type="line"/>
+      <point x="564" y="565" type="line"/>
+      <point x="564" y="683" type="line"/>
+      <point x="438" y="683" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=dieresis</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=dieresis</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

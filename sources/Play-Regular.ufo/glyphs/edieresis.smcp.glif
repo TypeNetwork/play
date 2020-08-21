@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis.smcp" format="2">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="66" type="line"/>
+      <point x="174" y="66" type="line"/>
+      <point x="174" y="220" type="line"/>
+      <point x="447" y="220" type="line"/>
+      <point x="447" y="286" type="line"/>
+      <point x="174" y="286" type="line"/>
+      <point x="174" y="418" type="line"/>
+      <point x="480" y="418" type="line"/>
+      <point x="480" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="565" type="line"/>
+      <point x="230" y="565" type="line"/>
+      <point x="230" y="659" type="line"/>
+      <point x="140" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="565" type="line"/>
+      <point x="400" y="565" type="line"/>
+      <point x="400" y="659" type="line"/>
+      <point x="310" y="659" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.case" format="2">
+  <advance width="684"/>
+  <outline>
+    <contour>
+      <point x="544" y="334" type="line"/>
+      <point x="648" y="334" type="line"/>
+      <point x="694" y="484" type="line"/>
+      <point x="627" y="484" type="line"/>
+    </contour>
+    <component base="k.smcp"/>
+  </outline>
+</glyph>

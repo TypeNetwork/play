@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticalbar-cy" format="2">
+  <advance width="247"/>
+  <anchor x="124" y="221" name="_mark3"/>
+  <outline>
+    <contour>
+      <point x="100" y="68" type="line"/>
+      <point x="147" y="68" type="line"/>
+      <point x="147" y="374" type="line"/>
+      <point x="100" y="374" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

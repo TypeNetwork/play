@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.smcp" format="2">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="306" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="91" type="line"/>
+      <point x="508" y="91" type="line"/>
+      <point x="508" y="192" type="line"/>
+      <point x="438" y="192" type="line"/>
+      <point x="438" y="484" type="line"/>
+      <point x="273" y="484" type="line"/>
+      <point x="26" y="202" type="line"/>
+      <point x="26" y="91" type="line"/>
+      <point x="306" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="192" type="line"/>
+      <point x="306" y="376" type="line"/>
+      <point x="306" y="192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

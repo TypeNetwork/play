@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omega" format="2">
+  <advance width="822"/>
+  <unicode hex="03C9"/>
+  <anchor x="415" y="484" name="top"/>
+  <outline>
+    <contour>
+      <point x="250" y="-10" type="curve" smooth="yes"/>
+      <point x="331" y="-10"/>
+      <point x="381" y="10"/>
+      <point x="410" y="82" type="curve"/>
+      <point x="439" y="10"/>
+      <point x="489" y="-10"/>
+      <point x="570" y="-10" type="curve" smooth="yes"/>
+      <point x="711" y="-10"/>
+      <point x="760" y="25"/>
+      <point x="760" y="232" type="curve" smooth="yes"/>
+      <point x="760" y="323"/>
+      <point x="745" y="431"/>
+      <point x="706" y="484" type="curve"/>
+      <point x="617" y="484" type="line"/>
+      <point x="646" y="440"/>
+      <point x="668" y="357"/>
+      <point x="668" y="232" type="curve" smooth="yes"/>
+      <point x="668" y="83"/>
+      <point x="662" y="49"/>
+      <point x="559" y="49" type="curve" smooth="yes"/>
+      <point x="474" y="49"/>
+      <point x="455" y="88"/>
+      <point x="455" y="208" type="curve" smooth="yes"/>
+      <point x="455" y="388" type="line"/>
+      <point x="365" y="388" type="line"/>
+      <point x="365" y="208" type="line" smooth="yes"/>
+      <point x="365" y="88"/>
+      <point x="346" y="49"/>
+      <point x="261" y="49" type="curve" smooth="yes"/>
+      <point x="158" y="49"/>
+      <point x="152" y="83"/>
+      <point x="152" y="232" type="curve" smooth="yes"/>
+      <point x="152" y="357"/>
+      <point x="174" y="440"/>
+      <point x="203" y="484" type="curve"/>
+      <point x="114" y="484" type="line"/>
+      <point x="75" y="431"/>
+      <point x="60" y="323"/>
+      <point x="60" y="232" type="curve" smooth="yes"/>
+      <point x="60" y="25"/>
+      <point x="109" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

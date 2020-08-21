@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacute.smcp" format="2">
+  <advance width="613"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="400" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="484" type="line"/>
+      <point x="444" y="484" type="line"/>
+      <point x="444" y="93" type="line"/>
+      <point x="211" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="553" type="line"/>
+      <point x="318" y="553" type="line"/>
+      <point x="443" y="680" type="line"/>
+      <point x="334" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

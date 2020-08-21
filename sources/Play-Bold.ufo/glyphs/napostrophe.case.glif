@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe.case" format="2">
+  <advance width="723"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="545" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="639" y="0" type="line"/>
+      <point x="639" y="649" type="line"/>
+      <point x="554" y="649" type="line"/>
+      <point x="554" y="113" type="line"/>
+      <point x="201" y="649" type="line"/>
+      <point x="84" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="700" type="line"/>
+      <point x="164" y="700" type="line"/>
+      <point x="239" y="840" type="line"/>
+      <point x="142" y="840" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

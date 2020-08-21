@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="We-cy" format="2">
+  <advance width="968"/>
+  <unicode hex="051C"/>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="483" y="540" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="960" y="649" type="line"/>
+      <point x="862" y="649" type="line"/>
+      <point x="701" y="92" type="line"/>
+      <point x="699" y="92" type="line"/>
+      <point x="538" y="649" type="line"/>
+      <point x="435" y="649" type="line"/>
+      <point x="274" y="92" type="line"/>
+      <point x="272" y="92" type="line"/>
+      <point x="111" y="649" type="line"/>
+      <point x="8" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

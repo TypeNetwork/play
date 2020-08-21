@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.smcp" format="2">
+  <advance width="258"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="568" type="line"/>
+      <point x="174" y="568" type="line"/>
+      <point x="174" y="666" type="line"/>
+      <point x="84" y="666" type="line"/>
+    </contour>
+  </outline>
+</glyph>

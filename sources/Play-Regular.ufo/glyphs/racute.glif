@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute" format="2">
+  <advance width="351"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="168" y="341" type="line" smooth="yes"/>
+      <point x="168" y="400"/>
+      <point x="206" y="417"/>
+      <point x="289" y="417" type="curve" smooth="yes"/>
+      <point x="339" y="417" type="line"/>
+      <point x="339" y="494" type="line"/>
+      <point x="295" y="494" type="line" smooth="yes"/>
+      <point x="235" y="494"/>
+      <point x="163" y="452"/>
+      <point x="163" y="405" type="curve" smooth="yes"/>
+      <point x="163" y="484" type="line"/>
+      <point x="78" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="553" type="line"/>
+      <point x="190" y="553" type="line"/>
+      <point x="315" y="680" type="line"/>
+      <point x="206" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

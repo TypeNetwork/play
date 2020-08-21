@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.loclVIT" format="2">
+  <anchor x="266" y="484" name="_top"/>
+  <anchor x="165" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="225" y="553" type="line"/>
+      <point x="299" y="553" type="line"/>
+      <point x="268" y="649" type="line"/>
+      <point x="159" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>399</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

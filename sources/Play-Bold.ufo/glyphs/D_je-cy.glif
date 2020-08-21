@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dje-cy" format="2">
+  <advance width="759"/>
+  <unicode hex="0402"/>
+  <outline>
+    <contour>
+      <point x="513" y="-10" type="curve" smooth="yes"/>
+      <point x="653" y="-10"/>
+      <point x="719" y="69"/>
+      <point x="719" y="207" type="curve" smooth="yes"/>
+      <point x="719" y="351"/>
+      <point x="638" y="420"/>
+      <point x="527" y="420" type="curve" smooth="yes"/>
+      <point x="438" y="420"/>
+      <point x="375" y="395"/>
+      <point x="336" y="375" type="curve"/>
+      <point x="336" y="538" type="line"/>
+      <point x="575" y="538" type="line"/>
+      <point x="575" y="649" type="line"/>
+      <point x="20" y="649" type="line"/>
+      <point x="20" y="538" type="line"/>
+      <point x="180" y="538" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="256" type="line"/>
+      <point x="368" y="282"/>
+      <point x="425" y="302"/>
+      <point x="483" y="302" type="curve" smooth="yes"/>
+      <point x="537" y="302"/>
+      <point x="568" y="272"/>
+      <point x="568" y="203" type="curve" smooth="yes"/>
+      <point x="568" y="140"/>
+      <point x="555" y="104"/>
+      <point x="500" y="104" type="curve" smooth="yes"/>
+      <point x="484" y="104"/>
+      <point x="464" y="108"/>
+      <point x="439" y="114" type="curve"/>
+      <point x="439" y="0" type="line"/>
+      <point x="459" y="-6"/>
+      <point x="489" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

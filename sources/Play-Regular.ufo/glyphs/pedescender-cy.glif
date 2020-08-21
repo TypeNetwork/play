@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pedescender-cy" format="2">
+  <advance width="577"/>
+  <unicode hex="0525"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="418" type="line"/>
+      <point x="403" y="418" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="-124" type="line"/>
+      <point x="561" y="-124" type="line"/>
+      <point x="561" y="66" type="line"/>
+      <point x="403" y="66" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

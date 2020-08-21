@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="revcommaaccent" format="2">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="111" y="538" type="line"/>
+      <point x="244" y="538" type="line"/>
+      <point x="290" y="700" type="line"/>
+      <point x="194" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

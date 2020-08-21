@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.smcp" format="2">
+  <advance width="446"/>
+  <outline>
+    <contour>
+      <point x="167" y="157" type="line"/>
+      <point x="223" y="252" type="line"/>
+      <point x="278" y="157" type="line"/>
+      <point x="367" y="216" type="line"/>
+      <point x="292" y="302" type="line"/>
+      <point x="401" y="326" type="line"/>
+      <point x="369" y="426" type="line"/>
+      <point x="268" y="383" type="line"/>
+      <point x="278" y="494" type="line"/>
+      <point x="172" y="494" type="line"/>
+      <point x="183" y="382" type="line"/>
+      <point x="78" y="426" type="line"/>
+      <point x="44" y="326" type="line"/>
+      <point x="156" y="302" type="line"/>
+      <point x="79" y="217" type="line"/>
+    </contour>
+  </outline>
+</glyph>

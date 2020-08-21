@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Cheverticalstroke-cy</key>
+    <string>C_heverticalstroke-cy.glif</string>
+    <key>Dje-cy</key>
+    <string>D_je-cy.glif</string>
+    <key>Ghemiddlehook-cy</key>
+    <string>G_hemiddlehook-cy.glif</string>
+    <key>Iigrave-cy</key>
+    <string>I_igrave-cy.glif</string>
+    <key>Iishort-cy</key>
+    <string>I_ishort-cy.glif</string>
+    <key>Tetse-cy</key>
+    <string>T_etse-cy.glif</string>
+    <key>Tshe-cy</key>
+    <string>T_she-cy.glif</string>
+    <key>be-cy</key>
+    <string>be-cy.glif</string>
+    <key>brevecomb-cy.case</key>
+    <string>brevecomb-cy.case.glif</string>
+    <key>chedieresis-cy</key>
+    <string>chedieresis-cy.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
+    <key>dje-cy</key>
+    <string>dje-cy.glif</string>
+    <key>dje-cy.ss04</key>
+    <string>dje-cy.ss04.glif</string>
+    <key>ghemiddlehook-cy</key>
+    <string>ghemiddlehook-cy.glif</string>
+    <key>kgreenlandic.case</key>
+    <string>kgreenlandic.case.glif</string>
+    <key>numero</key>
+    <string>numero.glif</string>
+    <key>obarred-cy</key>
+    <string>obarred-cy.glif</string>
+    <key>tetse-cy</key>
+    <string>tetse-cy.glif</string>
+    <key>tildecomb.case</key>
+    <string>tildecomb.case.glif</string>
+    <key>yi-cy</key>
+    <string>yi-cy.glif</string>
+  </dict>
+</plist>

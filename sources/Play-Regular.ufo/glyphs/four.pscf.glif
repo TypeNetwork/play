@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.pscf" format="2">
+  <advance width="518"/>
+  <outline>
+    <contour>
+      <point x="325" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="112" type="line"/>
+      <point x="488" y="112" type="line"/>
+      <point x="488" y="181" type="line"/>
+      <point x="408" y="181" type="line"/>
+      <point x="408" y="484" type="line"/>
+      <point x="296" y="484" type="line"/>
+      <point x="22" y="191" type="line"/>
+      <point x="22" y="112" type="line"/>
+      <point x="325" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="181" type="line"/>
+      <point x="325" y="415" type="line"/>
+      <point x="325" y="181" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

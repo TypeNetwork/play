@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tau" format="2">
+  <advance width="487"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="356" y="-10" type="curve" smooth="yes"/>
+      <point x="382" y="-10"/>
+      <point x="409" y="-8"/>
+      <point x="437" y="-5" type="curve"/>
+      <point x="437" y="86" type="line"/>
+      <point x="414" y="83"/>
+      <point x="396" y="81"/>
+      <point x="385" y="81" type="curve" smooth="yes"/>
+      <point x="317" y="81"/>
+      <point x="304" y="99"/>
+      <point x="304" y="166" type="curve" smooth="yes"/>
+      <point x="304" y="389" type="line"/>
+      <point x="457" y="389" type="line"/>
+      <point x="457" y="484" type="line"/>
+      <point x="20" y="484" type="line"/>
+      <point x="20" y="389" type="line"/>
+      <point x="158" y="389" type="line"/>
+      <point x="158" y="141" type="line" smooth="yes"/>
+      <point x="158" y="23"/>
+      <point x="233" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=pi-10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=pi-10</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

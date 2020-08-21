@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy" format="2">
+  <advance width="573"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="263" y="49" type="line"/>
+      <point x="310" y="49" type="line"/>
+      <point x="310" y="355" type="line"/>
+      <point x="263" y="355" type="line"/>
+    </contour>
+    <component base="che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

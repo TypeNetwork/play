@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehook-cy" format="2">
+  <advance width="515"/>
+  <unicode hex="0495"/>
+  <outline>
+    <contour>
+      <point x="241" y="-220" type="line"/>
+      <point x="426" y="-176"/>
+      <point x="496" y="-40"/>
+      <point x="496" y="85" type="curve" smooth="yes"/>
+      <point x="496" y="221"/>
+      <point x="420" y="294"/>
+      <point x="307" y="294" type="curve" smooth="yes"/>
+      <point x="239" y="294"/>
+      <point x="177" y="271"/>
+      <point x="168" y="225" type="curve"/>
+      <point x="168" y="149" type="line" smooth="yes"/>
+      <point x="168" y="208"/>
+      <point x="223" y="229"/>
+      <point x="284" y="229" type="curve" smooth="yes"/>
+      <point x="368" y="229"/>
+      <point x="405" y="172"/>
+      <point x="405" y="69" type="curve" smooth="yes"/>
+      <point x="405" y="-41"/>
+      <point x="357" y="-128"/>
+      <point x="219" y="-168" type="curve"/>
+    </contour>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="168" y="418" type="line"/>
+      <point x="394" y="418" type="line"/>
+      <point x="394" y="484" type="line"/>
+      <point x="78" y="484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
